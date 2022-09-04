@@ -46,10 +46,13 @@ This setting shows at the user end where user can enable the notificaton tone an
 #### Question Asked
 
 Q1. why we select the users in chat room one by one?
+
 Q2. What is token?
+
 Q3. How the feature of version14 chat app is useful for us?
+
 Q4. Is video can be send?
+
 Q5. why file cannot be send greater then 5MB size?
-Q6. Can user customized their messages after sent once as
-in whatsapp we can delete the message at both send even
-after delivered?
+
+Q6. Can user customized their messages after sent once as in whatsapp we can delete the message at both send even after delivered?
