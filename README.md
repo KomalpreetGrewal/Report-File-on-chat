@@ -17,12 +17,16 @@ In which having 5 doctypes -
 
  1. Chat room
  ![Chat Room](./ChatRoom.png)
+ 
  2. Chat message
  ![Chatmsg](./ChatMessage.png)
+ 
  3. Chat profile
  ![Chat Profile](./ChatProfile.png)
+ 
  4. Chat setting
  ![Chat Setting](./ChatSetting.png)
+ 
  5. Chat user setting
  ![Chat User Setting](./ChatUserSetting.png)
  
