@@ -33,10 +33,13 @@ In which having 5 doctypes -
  #### 1 Chat room -
  It is the space where user inetract with others (Admin , System user) by the text messages.Chat room can be created by the 3 ways :
  1. By guest- Guests will see only one small button on the below right side on the web page. Guests will click on it , enter some basic information (  Name,Email-id,message) and submit.Guest does not have any setting option on chat but if it visits again on the same site then it will see the last conversation where it left.
+ ![](./GuestUser.png)
 
  2. By Direct- In which Users have a right to create its own chat room by adding only room type and user id. Direct communication is held.
+ 
 
  3. By group- It is similar to the direct but admin can add multiple users in chat.
+ ![](./Group.png)
 
 #### 2. Chat message -
 It is the space where text are sent between people. Every message that has been sent by a User gets reflected in the Chat Message List.
