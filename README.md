@@ -59,14 +59,18 @@ This setting shows at the user end where user can enable the notificaton tone an
 
 
 Q1. What is token?
+
 Ans: Token is a unique id number for each guest by the system.
 
 Q2. Is video can be send?
+
 Ans: Yes,if you buy the chat the changes will be done before delivering to you.
 
 Q3. why file cannot be send greater then 5MB size?
+
 Ans: Because I set the configuration in code.
 
 Q4. Can user customized their messages after sent once as in whatsapp we can delete the message at both send even after delivered?
+
 Ans:No only administrators can do this.
 
