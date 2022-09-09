@@ -36,7 +36,7 @@ In which having 5 doctypes -
  ![ ](./GuestUser.png)
 
  2. By Direct- In which Users have a right to create its own chat room by adding only room type and user id. Direct communication is held.
- 
+ ![ ](./Direct.png)
 
  3. By group- It is similar to the direct but admin can add multiple users in chat.
  ![ ](./Group.png)
