@@ -7,9 +7,13 @@ It is the commmuncation software where people interact with others through the t
 ### To install
 By following below commands -
 
-$ bench get -app chat
+```
+bench get -app chat
+```
 
-$ bench --site sitename install -app chat
+```
+bench --site sitename install -app chat
+```
 
 
 ### Doctypes
